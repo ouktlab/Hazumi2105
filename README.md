@@ -3,9 +3,9 @@ Osaka University Multimodal Dialogue Corpus (Hazumi2105)
 
 Hazumi2105では以下のファイル群を公開している．
 ```
-1. ビデオデータ（未）
+1. ビデオデータ
 2. 閲覧用ELANファイル
-3. 実験用ダンプファイル（未）
+3. 実験用ダンプファイル
 4. アンケートデータ
 ```
 本サイトでは，2.をelan/で，3.をdumpfiles/で，4.をquestionnaire/で，それぞれ公開している．
